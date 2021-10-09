@@ -1,1 +1,6 @@
 new files for testing and learning merging
+void add(){
+int a,b,c=0;
+c=a+b;
+
+}
