@@ -3,4 +3,8 @@ void add(){
 int a,b,c;
 c=a+b;
 }
+void div(){
+int a,b,c;
+c=a%b;
+}
 
